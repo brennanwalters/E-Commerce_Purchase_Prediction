@@ -1,4 +1,5 @@
-![Screen Shot 2021-05-24 at 8 32 14 PM](https://user-images.githubusercontent.com/54850909/119426627-2cc08a00-bccf-11eb-9e4c-56e267b67707.png)
+![Screen Shot 2021-05-24 at 8 35 02 PM](https://user-images.githubusercontent.com/54850909/119426817-8e80f400-bccf-11eb-90ea-c5e541724b83.png)
+
 
 
 ## Introduction
@@ -14,3 +15,12 @@ Event:
 * purchase - a user purchased a product
 
 Other variables include: the date of the event, the product id, the category id, the category code, the brand, the price, the user’s unique id, and user session id.
+
+## Cleaning
+
+## Added Variables
+
+## Analysis
+
+## Prediction
+
