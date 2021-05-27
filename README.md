@@ -6,7 +6,7 @@
 
 ## Data Description
 
-Source: Kaggle (https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+Source: [Kaggle](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store)
 
 Full data contains online shopping information from October 2019 to April 2020. The data defines an 'event' as one of three shopper actions:
 * **view** - a user viewed a product
