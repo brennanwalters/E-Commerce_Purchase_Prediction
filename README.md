@@ -24,25 +24,21 @@ The full data contains online shopping information from October 2019 to April 20
 * **cart** - a user added a product to their shopping cart
 * **purchase** - a user purchased a product
 
-Other variables include: the date of the event, the product id, the category id, the category code, the brand, the price, the user’s unique id, and user session id.
+The data contains over 67 million events. Other variables include: the date of the event, the product id, the category id, the category code, the brand, the price, the user’s unique id, and user session id.
 
 ![Screen Shot 2021-05-28 at 1 46 56 PM](https://user-images.githubusercontent.com/54850909/120029064-33931980-bfbb-11eb-94c3-1d7248d1684d.png)
-
 
 # Analysis Results
 
 ## Shoppers
+### Number of Unique Shopper IDs
 ![Screen Shot 2021-05-28 at 1 42 13 PM](https://user-images.githubusercontent.com/54850909/120028946-06df0200-bfbb-11eb-930b-6fc56b355666.png)
-
-* There were 3,696,117 unique user id’s
-* Over 67 million events
-* NA values
-* Date and time
-* Encode categorical variables for prediction
 
 ### Number of Shoppers Over Time
 ![image](https://user-images.githubusercontent.com/54850909/120032716-36443d80-bfc0-11eb-8b72-f93e4d8c7dea.png)
 
+* There were 3,696,117 shoppers on the site during November
+* Activity increased dramatically towards the middle of the month and then decreased
 
 ## Events
 ![Screen Shot 2021-05-28 at 2 11 56 PM](https://user-images.githubusercontent.com/54850909/120031684-bcf81b00-bfbe-11eb-9708-d6164b888566.png)
@@ -50,7 +46,7 @@ Other variables include: the date of the event, the product id, the category id,
 
 ![Screen Shot 2021-05-25 at 6 24 02 PM](https://user-images.githubusercontent.com/54850909/119580644-686a5b00-bd86-11eb-86ae-f27c070d2277.png)
 
-* Majority of events were views
+* Majority of events were views, implying that 
 * There were fewer purchases than items added to shopping carts
 * A very small number of events were actual purchases
 
@@ -86,10 +82,10 @@ Other variables include: the date of the event, the product id, the category id,
 
 
 # Conclusion
-
 * E-commerce plays a massive part in retail sales
 * Of the thousands of people who browse e-commerce sites everyday, most tend to view multiple products
 * A very small proportion of activity on e-commerce sights is purchasing
+* On this site in particular, most purchases were electronics and appliances
 * Product brand, price, category, and activity count are significant in predicting purchases
 
 
