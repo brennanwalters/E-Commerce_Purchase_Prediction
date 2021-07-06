@@ -1,4 +1,5 @@
-![Screen Shot 2021-05-25 at 6 14 24 PM](https://user-images.githubusercontent.com/54850909/119579921-1248e800-bd85-11eb-98dc-6b8484b6f18f.png)
+![Screen Shot 2021-07-02 at 4 04 48 PM](https://user-images.githubusercontent.com/54850909/124328448-43b88e80-db4f-11eb-8302-88b0cd298b35.png)
+
 
 # Table of Contents
 * Introduction
