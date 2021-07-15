@@ -78,9 +78,6 @@ The data contains over 67 million events. Other variables include: the date of t
 
 ![image](https://user-images.githubusercontent.com/54850909/120051678-2ee45a80-bfe7-11eb-9f54-6322feebd114.png)
 
-### Confusion Matrix
-![image](https://user-images.githubusercontent.com/54850909/120051683-33107800-bfe7-11eb-84e4-a4186b783aa6.png)
-
 
 # Conclusion
 * E-commerce plays a massive part in retail sales
@@ -89,4 +86,4 @@ The data contains over 67 million events. Other variables include: the date of t
 * On this site in particular, most purchases were electronics and appliances
 * Product brand, price, category, and activity count are significant in predicting purchases
 
-
+### Model Evaluation
