@@ -5,6 +5,8 @@
 * Introduction
 * Data Description
 * Analysis Results
+* Logistic Regression
+* Model Evaluation
 * Conclusion
 
 # Introduction
@@ -71,13 +73,12 @@ The data contains over 67 million events. Other variables include: the date of t
 * Of the 1.3% purchases, most products were electronics and appliances
 * Top brands include several large tech companies  
 
-# Prediction
-
-### Logistic Regression
+# Logistic Regression
 ![image](https://user-images.githubusercontent.com/54850909/120051669-2855e300-bfe7-11eb-96a4-cef641b0a43f.png)
 
 ![image](https://user-images.githubusercontent.com/54850909/120051678-2ee45a80-bfe7-11eb-9f54-6322feebd114.png)
 
+# Model Evaluation
 
 # Conclusion
 * E-commerce plays a massive part in retail sales
@@ -86,4 +87,3 @@ The data contains over 67 million events. Other variables include: the date of t
 * On this site in particular, most purchases were electronics and appliances
 * Product brand, price, category, and activity count are significant in predicting purchases
 
-### Model Evaluation
