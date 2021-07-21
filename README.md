@@ -11,7 +11,7 @@
 
 # Introduction
 
-Retail e-commerce has seen rapid growth for many years now, evolving from its beginning in the 1990s and becoming a major component of many businesses. More recently, e-commerce has increased significantly due to the coronavirus pandemic. As people began staying home for long periods of time, many started to rely heavily on online shopping. With the increase in demand for online retail, many businesses have moved their inventory to the internet in order to stay open. In short, e-commerce is probably more important now than ever before, for both consumers and retailers. By analyzing e-commerce data, I hope to gain some experience dealing with real questions that data analysts working in the industry are facing regarding consumer behavior. For example:
+Retail e-commerce has seen rapid growth for many years now, evolving from its beginning in the 1990s and becoming a major component of many businesses. More recently, e-commerce has increased significantly as many more people rely heavily on online shopping. With the increase in demand for online retail, many businesses have moved their inventory to the internet in order to stay open. In short, e-commerce is probably more important now than ever before, for both consumers and retailers. By analyzing e-commerce data, I hope to gain some experience dealing with real questions that data analysts working in the industry are facing regarding consumer behavior. For example:
 
 * How many customers visited the site in a certain time period?
 * What kind of activity went on during that time (viewing, buying, etc.)?
